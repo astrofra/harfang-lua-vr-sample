@@ -1,10 +1,10 @@
 {
 	"editor": {
 		"animeditor_plugin": {
+			"backward_trajectory_duration": 0.25,
+			"forward_trajectory_duration": 0.25,
 			"quantize_time": true,
-			"show_trajectories": null,
-			"trajectories_tick_seconds": 1.0,
-			"trajectories_tick_size": 0.10000000149011612
+			"show_trajectories": null
 		},
 		"explorer": {
 			"node_custom_order": {
@@ -33,7 +33,7 @@
 			"subdiv_size": 1.0
 		},
 		"navigation_plugin": {
-			"orbit_distance": 5.555555820465088,
+			"orbit_distance": 33.31234359741211,
 			"speed": 0.10000000149011612,
 			"turbo": 1.0
 		},
@@ -123,18 +123,18 @@
 			},
 			"orthographic_size": 1.0,
 			"perspective": [
-				0.9987044334411621,
-				0.022442257031798363,
-				0.04567397013306618,
-				-1.533470869064331,
+				0.7412197589874268,
+				0.20426785945892334,
+				0.6394308805465698,
+				-22.58066749572754,
 				0.0,
-				0.8975103497505188,
-				-0.4409942328929901,
-				5.768698692321777,
-				-0.05089041218161583,
-				0.44042301177978516,
-				0.896348774433136,
-				-6.979717254638672
+				0.9525756239891052,
+				-0.3043024241924286,
+				13.455756187438965,
+				-0.6712648868560791,
+				0.2255549430847168,
+				0.7060693502426147,
+				-25.520822525024414
 			],
 			"perspective_fov": 0.7853981852531433,
 			"perspective_zrange": {
